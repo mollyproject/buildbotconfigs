@@ -1,0 +1,10 @@
+*.log
+*.log.*
+molly_demo
+tester
+android
+*.pyc
+buildslaves.py
+buildbot.tac
+*.pid
+state.sqlite
